@@ -22,5 +22,6 @@ Start page for the future online store
 - markup, image size
 - page colors
 
+# Illustration
 <img src='img/animate.gif'>
 
